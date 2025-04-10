@@ -23,3 +23,5 @@ Clone this project to your local machine using:
 git clone https://github.com/yourusername/yourrepositoryname.git
 ![Снимок экрана 2025-04-10 153349.png](..%2F..%2FPictures%2FScreenshots%2F%3F%3F%3F%3F%3F%3F%20%3F%3F%3F%3F%3F%3F%202025-04-10%20153349.png)![Снимок экрана 2025-04-10 153150.png](..%2F..%2FPictures%2FScreenshots%2F%3F%3F%3F%3F%3F%3F%20%3F%3F%3F%3F%3F%3F%202025-04-10%20153150.png)
 ![Снимок экрана 2025-04-10 153150.png](..%2F..%2FPictures%2FScreenshots%2F%3F%3F%3F%3F%3F%3F%20%3F%3F%3F%3F%3F%3F%202025-04-10%20153150.png)
+![Снимок экрана 2025-04-10 153150](https://github.com/user-attachments/assets/1e05a07c-65bd-48b5-95d4-9ca6be755e26)
+![Снимок экрана 2025-04-10 153349](https://github.com/user-attachments/assets/fd603469-d35a-43fa-8867-bf2dca0e7184)
