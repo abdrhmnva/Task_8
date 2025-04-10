@@ -22,3 +22,4 @@ Clone this project to your local machine using:
 ```bash
 git clone https://github.com/yourusername/yourrepositoryname.git
 ![Снимок экрана 2025-04-10 153150.png]
+Снимок экрана 2025-04-10 153150.png
